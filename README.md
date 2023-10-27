@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-![LeetCode Logo](https://leetcode.com/static/images/LeetCode_logo.png)
+<!-- ![LeetCode Logo](https://leetcode.com/static/images/LeetCode_logo.png) -->
 
 Welcome to my LeetCode Solutions repository! Here, you'll find a collection of my solutions to various Data Structures and Algorithms (DSA) problems available on the [LeetCode](https://leetcode.com/) platform. These solutions are written in multiple programming languages such as Python, Java, and C++.
 
