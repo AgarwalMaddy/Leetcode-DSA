@@ -1,3 +1,5 @@
+import java.util.HashMap;
+
 class Solution {
     public int countNicePairs(int[] nums) {
         int n = nums.length;
