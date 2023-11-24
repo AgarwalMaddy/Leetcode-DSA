@@ -1,3 +1,6 @@
+import java.util.HashMap;
+import java.util.Map;
+
 class Solution {
     public int[] restoreArray(int[][] vals) {
         Map<Integer, int[]> pairs = new HashMap<>();
