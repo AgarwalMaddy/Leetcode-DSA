@@ -1,3 +1,5 @@
+import java.util.Arrays;
+
 class Solution {
     public int knightDialer(int n) {
         final int MOD = 1_000_000_007;
